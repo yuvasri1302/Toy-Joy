@@ -1,1 +1,2 @@
 # Toy-Joy
+ToyJoy used a Power BI dashboard to track inventory, sales, and warehouse stock. The analysis highlighted strong sales in educational toys, stock imbalances between warehouses, and the need to reorder fast-selling products. Recommendations include automated reorder alerts, demand forecasting, and better stock distribution. The deck says the dashboard improved visibility and sped up decisions.
