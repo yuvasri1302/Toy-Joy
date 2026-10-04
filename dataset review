@@ -1,0 +1,13 @@
+Dataset Overview
+
+	The dataset contains:
+		Product ID 
+		Product Name 
+		Category 
+		Supplier 
+		Warehouse 
+		Stock Quantity 
+		Unit Price 
+		Reorder Level 
+		Units Sold Last Month 
+		Product Rating 
